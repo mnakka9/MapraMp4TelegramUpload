@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"telegram": {
+			"apiId": "XXX",
+			"apiHash": "xxx",
+			"phoneNumber": "+xxx",
+			"chatName": "xx"
+		},
+		"enginePath": "C:\\tools\\ffmpeg",
+		"tempPath": ""
+	}
+}
